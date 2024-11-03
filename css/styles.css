@@ -28,7 +28,7 @@ a {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  color: #434455;
 }
 .nav-link:hover,
 .nav-link:focus {
@@ -56,13 +56,11 @@ a {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
+  text-align: center;
 }
 .hero-button {
   color: #ffffff;
   font-family: inherit;
-  border-radius: 4px;
-  padding: 16px 32px;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background-color: #4d5ae5;
   cursor: pointer;
   font-weight: 500;
@@ -96,6 +94,8 @@ a {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
 }
 .team-item {
   background-color: #ffffff;
@@ -123,6 +123,8 @@ a {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
 }
 .portfolio-item {
   background-color: #ffffff;
